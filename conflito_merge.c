@@ -2,7 +2,7 @@
 
 int main (){
 
-    printf("conflito_merge");
+    printf("conflito_merge3");
 
     return 0;
 }
